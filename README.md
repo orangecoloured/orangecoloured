@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="http://localhost:3000/apply/53082289" target="_blank" rel="noopener">![Apply with Quine](https://quine.sh/images/awq-btn.png)</a>
+<a href="http://localhost:3000/apply/53082289" target="_blank" rel="noopener"><img src="https://your-image-url.type" width="600"></a>
 
 <!--
 **orangecoloured/orangecoloured** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
