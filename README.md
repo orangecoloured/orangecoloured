@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://hit.yhype.me/github/profile?user_id=3314891)
 
-<a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener"><picture><img src="https://quine.sh/images/awq/btn-81538077.png?timestamp=2" width="412" /></picture></a>
+<a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener"><picture><img src="https://quine.sh/images/awq/btn-81538077.png" width="412" /></picture></a>
