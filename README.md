@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="http://localhost:3000/profile/orangecoloured"><img src="https://stats-dev.quine.sh/orangecoloured/github" alt="orangecoloured's GitHub stats" width="840px"></a>
+[![orangecoloured's GitHub stats](https://stats.quine.sh/orangecoloured/github)](https://quine.sh/profile/orangecoloured)
