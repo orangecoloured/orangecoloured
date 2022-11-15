@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![rckt's GitHub stats](https://stats.quine.sh/rckt/github)](https://quine.sh/profile/rckt)
+[![orangecoloured's Philand](https://stats-dev.quine.sh/orangecoloured/philand-mumbai/bopbeepboop.eth)](http://localhost:3000/profile/orangecoloured)
