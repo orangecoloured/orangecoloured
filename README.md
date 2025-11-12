@@ -1,1 +1,1 @@
-### yo 🤙
+# SHOOT ME A MESSAGE AT [MAIL@RCKT.CC](mailto:mail@rckt.cc) FOR ANY SORT OF COLLABORATION.
